@@ -10,7 +10,7 @@ then run "npm start"
 Open on Browser
 
 # Heroku Link: 
-https://react-todo-deploy-final.herokuapp.com/
+https://testing123-react.herokuapp.com/
 
 # Libraries Used:
 
